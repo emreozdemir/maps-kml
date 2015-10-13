@@ -1,1 +1,2116 @@
-
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Happy Center Şubeler</name>
+<description>
+<![CDATA[ Mağazalarımız ]]>
+</description>
+<Folder>
+<name>İstanbul Mağazalar</name>
+<Placemark>
+<name>Akkoza Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles//IMG_0285.jpg" height="200" width="auto" /><br><br>Sanayi Mah 1655 Sok No:1/B<br>Esenyurt/İstanbul<br>Tel : 0 (212) 777 42 23
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>http://happycenter.com.tr/userfiles//IMG_0285.jpg</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.705499000000003,41.020174,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Altınşehir Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/altinsehir_subesi.jpg" height="200" width="auto" /><br><br>Şahintepe Mah.İstiklal Cad No:1<br>Başakşehir/İstanbul<br>Tel : 0 (212) 687 74 54
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/altinsehir_subesi.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.74666300000001,41.063742,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ambarlı Şubesi</name>
+<description>
+<![CDATA[
+Ambarlı Mah.Cumhuriyet Cad.Çelik Sok.No:2 <br>Avcılar / İstanbul<br>Tel : 0 (212) 694 31 80
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData></ExtendedData>
+<Point>
+<coordinates>28.718818999999943,40.974565,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Armutlu Şubesi</name>
+<description>
+<![CDATA[
+Fatih Sultan Mehmet Mah.Evrenpaşa Sok.No:50 <br>Sarıyer / İstanbul<br>Tel : 0 (212) 229 93 33
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData></ExtendedData>
+<Point>
+<coordinates>29.049949999999967,41.166328,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Avcılar Şubesi</name>
+<description>
+<![CDATA[
+Ahmet Taner Kışlalı Cad. No:13<br>Avcılar / İstanbul<br>Tel : 0 (212) 590 08 71
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData></ExtendedData>
+<Point>
+<coordinates>28.722721999999976,40.978541,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Avcılar (Havuz) Şubesi</name>
+<description>
+<![CDATA[
+Merkez Mah. Ahmet Taner Kışlalı Cad. No:28/A <br>Avcılar / İstanbul <br>Tel : 0 (212) 695 19 93
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData></ExtendedData>
+<Point>
+<coordinates>28.718728000000056,40.979694,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Büyükçekmece Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/8421_buyukcekmece.JPG" height="200" width="auto" /><br><br>Fatih Mh.Vehbi Koç Cd.Şehremini Sok.No:1 B.Çekmece / İstanbul<br>Tel : 0 (212) 883 38 52
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/8421_buyukcekmece.JPG
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.620971999999938,41.02965,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Başakşehir Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/6687_basaksehir.jpg" height="200" width="auto" /><br><br>Başak Mah. Ertuğrul Gazi Cd.5.Etap No:20 <br>Başakşehir / İstanbul<br>Tel : 0 (212) 488 42 10
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/6687_basaksehir.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.801498000000034,41.112819,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Başakşehir 2. Kısım Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/basaksehir2.JPG" height="200" width="auto" /><br><br>Başakşehir Mah G-403 Sok No:1/B<br>Başakşehir / İstanbul<br>Tel : 0 (212) 485 58 21
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/basaksehir2.JPG
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.78107799999998,41.082754,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Beşyüzevler Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/1992_Besyuzevler1.jpg" height="200" width="auto" /><br><br>Hürriyet Mh.Eski Edirne Asf.261 Sk.No:13/B<br>G.O.Paşa / İstanbul<br>Tel : 0 (212) 479 12 50
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/1992_Besyuzevler1.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.880222000000003,41.089458,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Beykent Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/1307_beykent.jpg" height="200" width="auto" /><br><br>Adnan Kahveci Mah. Osmanlı Cad. No:7/A Beylikdüzü / İstanbul<br>Tel : 0 (212) 856 06 93
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/1307_beykent.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.629016999999976,41.01217,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bizimevler 2 Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/5285_giris.jpg" height="200" width="auto" /><br><br>Tahtakale Mh. T42. Sok. Bizim Evler 2 Sitesi Çarşı Blok No:5<br>Avcılar / İstanbul<br>Tel : 0 (212) 397 31 42
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/5285_giris.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.968921000000027,41.016275,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bizimevler 3 Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/7011_Bizimevler10234534563456.jpg" height="200" width="auto" /><br><br>Tahtakale Mah T38. Sok No:2/10 D:1<br>Avcılar / İstanbul<br>Tel : 0 (212) 397 77 48
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/7011_Bizimevler10234534563456.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.774497,41.03312100000001,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bomonti Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/7975_bomonti.JPG" height="200" width="auto" /><br><br>Cumhuriyet Mh.Düzoğlu Sok.No:5<br>Royal İş Merkezi<br>Bomonti / Şişli<br>Tel : (0212) 241 24 90
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/7975_bomonti.JPG
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>29.011076000000003,41.124309,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Cennet Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/cennet_subesi.jpg" height="200" width="auto" /><br><br>Cennet Mah.Yavuz Selim Cad.No:40/1 A K.Çekmece / İstanbul<br>Tel : 0 (212) 598 03 78
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/cennet_subesi.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.661311999999953,40.999733,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Cumhuriyet Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/1095_Cumhuriyet.JPG" height="200" width="auto" /><br><br>Cumhuriyet Mh.Kazım Karabekir Cd.No:28-30/A K.Çekmece / İstanbul<br>Tel : 0 (212) 624 71 55
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/1095_Cumhuriyet.JPG
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.781907000000043,41.002762,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Çamlıkahve Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/camlikahve_subesi.jpg" height="200" width="auto" /><br><br>Cumhuriyet Mh.Bağcılar Cad.No:41/1<br>Bahçelievler / İstanbul<br>Tel : 0 (212) 505 46 26
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/camlikahve_subesi.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.861352,41.015857,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Çeliktepe Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/82_celiktepe.JPG" height="200" width="auto" /><br><br>Çeliktepe Mh.İnönü Cd.Buhara Sok.No:24/A <br>Kağıthane / İstanbul<br>Tel : 0 (212) 279 54 64
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/82_celiktepe.JPG
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>29.002412999999933,41.084719,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Esenbahçe Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/esenbahce_4.jpg" height="200" width="auto" /><br><br>Cumhuriyet Mah Nazım Hikmet Bulvarı No:85/1 Esenyurt /İstanbul<br>Tel : 0 (212) 853 33 48
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/esenbahce_4.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.641389000000004,41.009482,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Esenkent Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/esenkent_subesi.jpg" height="200" width="auto" /><br><br>Esenkent Mh.Süleyman Demirel Cad.No:32/6-7 Esenyurt / İstanbul<br>Tel : 0 (212) 672 47 10
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/esenkent_subesi.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.705201999999986,41.024578,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Esenler Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/esenler_subesi.jpg" height="200" width="auto" /><br><br>İstanbul Cad. No:33<br>Esenler / İstanbul<br>Tel : 0 (212) 611 91 72
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/esenler_subesi.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.895746000000035,41.030661,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Esenyurt Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/Resim%20005.jpg" height="200" width="auto" /><br><br>Fatih Mah.Bahçe Yolu Cad Özyurtlar Garden Sitesi 1.Etap No:32 <br>Esenyurt / İstanbul<br>Tel : 0 (212) 596 71 86
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/Resim%20005.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.694058000000044,41.04129,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fatih Şubesi</name>
+<description>
+<![CDATA[
+Bali Paşa Cad. No:35<br>Fatih / İstanbul<br>Tel : 0 (212) 621 72 08
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData></ExtendedData>
+<Point>
+<coordinates>28.96625100000006,41.006534,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Eyüp Flatofis Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/flatofis_subesi.jpg" height="200" width="auto" /><br><br>Otakçılar Cad. No:78 Zemin No:4/1<br>Eyüp / İstanbul<br>Tel : 0 (212) 437 81 89
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/flatofis_subesi.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.934443999999985,41.05500000000001,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>G.O.Paşa Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/7565_gop1.jpg" height="200" width="auto" /><br><br>Bağlarbaşı Mh.Bağlarbaşı Cd.No:92<br>G.O.Paşa / İstanbul<br>Tel : 0 (212) 563 15 45
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/7565_gop1.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.91438100000005,41.063106,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Gümüşpala Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/9191_gumuspala.jpg" height="200" width="auto" /><br><br>G.Pala Mah.G.Pala Cad. No:32<br>Avcılar / İstanbul<br>Tel : 0 (212) 593 73 40
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/9191_gumuspala.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.741079000000017,40.979746000000006,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Güzelce Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/guzelce_subesi.jpg" height="200" width="auto" /><br><br>Güzelce Mah Geçit Cad No:28/4<br>B.Çekmece / İstanbul<br>Tel : 0 (212) 868 25 46
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/guzelce_subesi.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.490332999999964,41.013899,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hadımköy Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/1-IMG_5267.JPG" height="200" width="auto" /><br><br>Hadımköy Mah. Doğukent Cad. No:27/1 <br>Arnavutköy / İstanbul<br>Tel : 0 (212) 780 00 40
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/1-IMG_5267.JPG
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.738888999999972,41.186394,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Halkalı Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/7809_halkali.jpg" height="200" width="auto" /><br><br>Atakent Mh.5.Cad No:4<br>Küçükçekmece / İstanbul<br>Tel : 0 (212) 697 97 00
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/7809_halkali.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.64962800000001,40.99361,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Halkalı 2 Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/halkali22.jpg" height="200" width="auto" /><br><br>Atakent Mah 222. Cad No:9/2<br>Küçükçekmece /İstanbul<br>Tel : 0 (212) 696 26 75
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>http://happycenter.com.tr/userfiles/halkali22.jpg</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.64189799999997,40.983832,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Haznedar Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/haznedar_subesi.jpg" height="200" width="auto" /><br><br>Haznedar Mah. Ergene Dok. No:7<br>Güngüren / İstanbul<br>Tel : 0 (212) 644 94 67
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/haznedar_subesi.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.867674999999966,41.010886,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Küçükköy Hekimsuyu Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/hekimsuyu_1a.jpg" height="200" width="auto" /><br><br>Mareşal Fevzi Çakmak Mahallesi Hekimsuyu Caddesi No:39<br>Küçükköy / İstanbul<br>Tel : 0 (212) 535 19 45
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/hekimsuyu_1a.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.926376,41.082619,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ispartakule Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/ispartakule_subesi.jpg" height="200" width="auto" /><br><br>Tahtakale Mh.Fırat Cd.No:2<br>Avcılar / İstanbul<br>Tel : 0 (212) 669 63 00
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/ispartakule_subesi.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.693763999999987,41.082321,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>İkitelli Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/2813_ikitelli_happycenter.jpg" height="200" width="auto" /><br><br>İkitelli Org.San.Bölg.Atatürk Bulv.No:100/C <br>Başakşehir / İstanbul<br>Tel : 0 (212) 671 13 02
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/2813_ikitelli_happycenter.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.863429999999994,41.104791,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Innovia Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/7409_innovia.JPG" height="200" width="auto" /><br><br>Cumhuriyet Mh.Hürriyet Cd.No:6/2-3-4-5 <br>Esenyurt / İstanbul<br>Tel : 0 (212) 853 19 06
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/7409_innovia.JPG
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.726510999999956,40.975581,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Küçükçekmece Şubesi</name>
+<description>
+<![CDATA[
+Cumhuriyet Mah. Aşık Veysel Cad.No:32-36/B <br>K.Çekmece / İstanbul<br>Tel : 0 (212) 598 39 39
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData></ExtendedData>
+<Point>
+<coordinates>28.769732999999974,40.994613,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Kocamustafapaşa Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/2271_Zigana1.jpg" height="200" width="auto" /><br><br>Vezir Cad.No:9<br>Şehremini / Fatih / İstanbul<br>Tel : 0 (212) 587 12 23
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/2271_Zigana1.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.93158500000004,41.012113,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Kağıthane Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/4596_Kagithane1.jpg" height="200" width="auto" /><br><br>Hamidiye Mh.Girne Cd.No:47<br>Kağıthane / İstanbul<br>Tel : 0 (212) 321 06 20
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/4596_Kagithane1.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.97425899999996,41.09285,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Kocasinan Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/kocasinan_subesi.jpg" height="200" width="auto" /><br><br>Kocasinan Mah. Mahmut Bey Cad. No:323 B.Evler / İstanbul<br>Tel : 0 (212) 651 82 40
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/kocasinan_subesi.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.84691199999998,41.007349,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Kurtuluş Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/IMG_7622.JPG" height="200" width="auto" /><br><br>Feriköy Mah. Kurtuluş Cad.Şehit<br>Erdem Canbaş Sk. No:3<br>Kurtuluş / Şişli<br>Tel : 0 (212) 234 83 61
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/IMG_7622.JPG
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.979458000000022,41.047329,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Küçükköy Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/5744_kucukkoy.jpg" height="200" width="auto" /><br><br>Fevzi Çakmak Mah. Cengiz Topel Cad.<br>756 Sk. No:2<br>Küçükköy / İstanbul<br>Tel : 0 (212) 617 77 87
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/5744_kucukkoy.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.903133000000025,41.070959,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Sancak Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/3767_Mecidiyekoy.JPG" height="200" width="auto" /><br><br>Gop Merkez Mah. Sancaklı Sokak No:1 Küçükköyyolu<br>G.O.P. / İstanbul<br>Tel : 0 (212) 497 22 90
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/3767_Mecidiyekoy.JPG
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.908177000000027,41.066373,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Küçükköy Merkez Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/Kucukkoy_Merkez.jpg" height="200" width="auto" /><br><br>Fevzi Çakmak Mah. İstanbul Cad.<br>No:12 Küçükköy Meydan-Aykutoğlu Avm<br>Küçükköy / İstanbul<br>Tel : 0 (212) 537 96 68
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/Kucukkoy_Merkez.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.892683000000034,41.033306,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mahmutbey Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/2376_mahmutbey.jpg" height="200" width="auto" /><br><br>Mahmutbey Yolu No:184<br>B.Evler / İstanbul<br>Tel : 0 (212) 654 21 30
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/2376_mahmutbey.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.874935,40.986464,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Markacity Şubesi</name>
+<description>
+<![CDATA[
+Büyükşehir Mh.Belediye Cad. No:20<br>Beylikdüzü / İstanbul<br>Tel : 0 (212) 872 13 37
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData></ExtendedData>
+<Point>
+<coordinates>28.64900499999999,41.007964,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Marmaraevleri 3 Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/3767_Mecidiyekoy.JPG" height="200" width="auto" /><br><br>Marmara Mah. Hürriyet Bulvarı T Blok No:50/1<br>Beylikdüzü / İstanbul<br>Tel : 0 (212) 777 27 49
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/3767_Mecidiyekoy.JPG
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.668593999999985,40.991379,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mecidiyeköy Şubesi</name>
+<description>
+<![CDATA[
+Gülbahar Mah.Ertuğrul Kabataş Cad.Aksu Apt.A Blok No:34<br>Mecidiyeköy / İstanbul<br>Tel : 0 (212) 217 90 33
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData></ExtendedData>
+<Point>
+<coordinates>29.24696500000005,40.984253,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mehmet Akif Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/4596_mehmet%20akif.jpg" height="200" width="auto" /><br><br>Atatürk Mh.İkitelli Cad.No:64/A<br>Küçükçekmece / İstanbul<br>Tel : 0 (212) 471 38 94
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/4596_mehmet%20akif.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.97835899999995,41.008238,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mimaroba Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/mimaroba_subesi.jpg" height="200" width="auto" /><br><br>Batıköy Mah. Mustafakemalpaşa<br>Bulvarı B Blok No:8-9-10<br>Mimaroba / Büyükçekmece<br>Tel : 0 (212) 863 30 50
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/mimaroba_subesi.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.58545300000003,41.024474,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Prestij Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/9362_prestij.JPG" height="200" width="auto" /><br><br>Barış Mah.Samsun Cad. Kır Sok. No:21/1-2-3<br>Beylikdüzü / İstanbul<br>Tel : 0 (212) 854 23 09
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/9362_prestij.JPG
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.97835899999995,41.008238,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Reşitpaşa 1 Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/2308_Resitpasa%201.jpg" height="200" width="auto" /><br><br>Reşitpaşa Mh.Tuncay Artun Cd.No:32-34 <br>Sarıyer / İstanbul<br>Tel : 0 (212) 229 52 41
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/2308_Resitpasa%201.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>29.042641000000003,41.106353,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Reşitpaşa 2 Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/9669_Resitpasa2.JPG" height="200" width="auto" /><br><br>Reşitpaşa Mh.Tuncay Artun Cd.No:15<br>Sarıyer / İstanbul<br>Tel : 0 (212) 229 55 42
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/9669_Resitpasa2.JPG
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>29.046641000000026,41.10421600000001,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Sanayi Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/3767_Mecidiyekoy.JPG" height="200" width="auto" /><br><br>Sanayi Mah.Sultan Selim Cad.Merkez Cami Yanı <br>Kağıthane / İstanbul<br>Tel : 0 (212) 324 73 65
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/3767_Mecidiyekoy.JPG
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.99903889999996,41.0908053,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Sefaköy Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/9691_sefakoy_happycenter.jpg" height="200" width="auto" /><br><br>Tevfikbey Mh.Yeldeğirmeni Cd.No:44 / A <br>Küçükçekmece / İstanbul<br>Tel : 0 (212) 592 06 88
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/9691_sefakoy_happycenter.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.798575000000028,41.01074,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Seyrantepe Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/seyrantepe_subesi.jpg" height="200" width="auto" /><br><br>Seyrantepe Mah. Nato Cad.Çam Sok.No:1 <br>Kağıthane / İstanbul<br>Tel : 0 (212) 280 17 91
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/seyrantepe_subesi.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.998225999999935,41.099329,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Seyrantepe 2 Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/seyrantepe-2_subesi.jpg" height="200" width="auto" /><br><br>Seyrantepe Mh.Cihangir Sok.No:1<br>Kağıthane / İstanbul<br>Tel : 0 (212) 281 81 44
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/seyrantepe-2_subesi.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.98503900000003,41.084871,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Silivri Kiptaş Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/hc_silivri%20(3).JPG" height="200" width="auto" /><br><br>Yeni Mah. Erkin Balaban Cad. No:53/1<br>Silivri / İstanbul<br>Tel : 0 (212) 727 27 30
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/hc_silivri%20(3).JPG
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.253353,41.082185,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Şirinevler Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/8469_sirinevler_happycenter.jpg" height="200" width="auto" /><br><br>M.Fevzi Çakmak Cad. 1Ve 2 Sok.No:13<br>Bahçelievler / İstanbul<br>Tel : 0 (212) 451 51 30
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/8469_sirinevler_happycenter.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.87348999999995,41.025883,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Şükrübey Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/5723_Sukrubey1.jpg" height="200" width="auto" /><br><br>G.Pala Mah. Şükrübey Cad.No:1<br>Avcılar / İstanbul<br>Tel : 0 (212) 509 37 19
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/5723_Sukrubey1.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.734566999999966,40.979127,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Tepeüstü Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/tepeustu_subesi.jpg" height="200" width="auto" /><br><br>Yeni Mah.Mimar Sinan Cad.No:19/A<br>Küçükçekmece / İstanbul<br>Tel : 0 (212) 425 84 95
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/tepeustu_subesi.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.78486900000007,40.999936000000005,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Yeşilova Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/yesilova_subesi.jpg" height="200" width="auto" /><br><br>Yeşilova Mah.Reyhan.Cad.No:66/70<br>Küçükçekmece / İstanbul<br>Tel : 0 (212) 598 92 52
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/yesilova_subesi.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.78746799999999,40.992854,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Yeşilpınar Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/6404_Yesilpinar.jpg" height="200" width="auto" /><br><br>Akşemsettin Mahallesi Selimpaşa Sokak No:1/A <br>Eyüp / İstanbul<br>Tel : 0 (212) 626 27 56
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/6404_Yesilpinar.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.930278000000044,41.085538,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Zeytinburnu Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/zburnu.JPG" height="200" width="auto" /><br><br>Yeşiltepe Mah. 74. Sok No:25 / A<br>Zeytinburnu / İstanbul<br>Tel : 0 (212) 547 80 64
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/zburnu.JPG
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.901713999999973,40.99442,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Zigana Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/4377_Zigana1.jpg" height="200" width="auto" /><br><br>Büyükşehir Mh.Leylak Sk.A1 Blok No:29-30-32 <br>Beylikdüzü / İstanbul<br>Tel : 0 (212) 872 62 10
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/4377_Zigana1.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.646174999999975,41.002669,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Adnan Kahveci Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/adnan_kahveci.JPG" height="200" width="auto" /><br><br>Cumhuriyet Mah. Adnan Kahveci Cad. No:82/A <br>Kartal / İstanbul<br>Tel : 0 (216) 309 95 10
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/adnan_kahveci.JPG
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>29.22667300000001,40.904534,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Asyapark Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/IMG_8041.JPG" height="200" width="auto" /><br><br>Bostancı Yolu No:1 Yukarı<br>Dudllu / Ümraniye<br>Tel : 0 (216) 499 84 12
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/IMG_8041.JPG
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>29.15870199999995,41.006715,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bulgurlu Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/DSC03954.JPG" height="200" width="auto" /><br><br>Namazgah Mah. İzettinbey Cad. No:14/2 <br>Bulgurlu / Ümraniye<br>Tel : 0 (216) 650 79 36
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/DSC03954.JPG
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>29.026880000000006,40.991131,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Çakmak Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/_MG_4735.JPG" height="200" width="auto" /><br><br>Site Mah.Atay Cad.No:86/A<br>Ümraniye / İstanbul<br>Tel : 0 (216) 533 16 09
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>http://happycenter.com.tr/userfiles/_MG_4735.JPG</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>29.110314000000017,41.008754,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Çakmak 2 Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/Cakmak2.JPG" height="200" width="auto" /><br><br>Çakmak Mahallesi Tavukçuyolu Cad. No:8/A <br>Ümraniye / İstanbul<br>Tel : 0 (216) 499 25 68
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/Cakmak2.JPG
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>29.122975999999994,41.020154,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Çekmeköy 2 Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/7565_gop1.jpg" height="200" width="auto" /><br><br>Mimar Sinan Mah Mimar Sinan Cad No:49/A <br>Çekmeköy / İstanbul<br>Tel : 0 (216) 642 67 66
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/7565_gop1.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>29.18608399999994,41.030752,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Çekmeköy Şahinbey</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/DSC02625a.jpg" height="200" width="auto" /><br><br>Mehmet Akif Mah. Ulubatlı Hasan Cad. No:27 <br>Şahinbey/ Çekmeköy<br>Tel : 0 (216) 640 19 96
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/DSC02625a.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>29.223727000000057,40.986016,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Darıca Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/1(2).jpg" height="200" width="auto" /><br><br>Zincirlikuyu Mah. Kaplan Cad.<br>No: 26 Kaymakamlık Yanı<br>Darıca / Kocaeli<br>Tel : 0 (262) 745 28 20
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>http://happycenter.com.tr/userfiles/1(2).jpg</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>29.400298000000024,40.773863,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fikirtepe Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/fikirtepe.JPG" height="200" width="auto" /><br><br>Fikirtepe Mandıra Cad. No:176<br>Kadıköy / İstanbul<br>Tel : 0 (216) 565 35 46
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/fikirtepe.JPG
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>29.05875100000003,40.990618,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Gebze Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/IMG_8999a.jpg" height="200" width="auto" /><br><br>Güzeller Mh. İbrahimağa Cd. No:10<br>Merkez Hastanesi Yanı<br>Gebze / Kocaeli<br>Tel : 0 (262) 642 32 27
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>http://happycenter.com.tr/userfiles/IMG_8999a.jpg</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>29.439794000000006,40.802516,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>İçerenköy Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/icerenkoy_happy_center.jpg" height="200" width="auto" /><br><br>İçerenköy Mh. Prof.Dr.Necmettin Erbakan No:91/A<br>Ataşehir / İstanbul<br>Tel : 0 (216) 469 33 40
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/icerenkoy_happy_center.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>29.12777800000004,40.983333,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Kaynarca Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/Kaynarca.JPG" height="200" width="auto" /><br><br>Fevzi Çakmak Mah. Malazgirt Cad. No:4<br>Pendik / İstanbul<br>Tel : 0 (216) 396 90 15
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/Kaynarca.JPG
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>29.26845200000002,40.883376,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Kazım Karabekir Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/kaz%C4%B1mkarabekir.JPG" height="200" width="auto" /><br><br>Kazım Karabekir Mah. Adem Yavuz Cad. No:78 <br>Ümraniye / İstanbul<br>Tel : 0 (216) 632 24 00
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/kaz%C4%B1mkarabekir.JPG
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>29.10168199999998,41.037551,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Kozyatağı Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/IMG_5463.JPG" height="200" width="auto" /><br><br>Kozyatağı Mah Sarıkaya Sok No:13/A<br>Kadıköy / İstanbul<br>Tel : 0 (216) 384 92 84
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>http://happycenter.com.tr/userfiles/IMG_5463.JPG</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>29.096212000000037,40.969348,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Maltepe Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/IMG_9016a.jpg" height="200" width="auto" /><br><br>Feyzullah Mh. Atatürk Cd. No:35/A<br>Maltepe / İstanbul<br>Tel : 0 (216) 371 71 47
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>http://happycenter.com.tr/userfiles/IMG_9016a.jpg</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>29.130595999999972,40.924353,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Maltepe Belediye Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/Maltepe_Belediye.JPG" height="200" width="auto" /><br><br>Altayçeşme Mah. Bağdat Cad. Sanayi Sok. No:1 <br>Maltepe / İstanbul<br>Tel : 0 (216) 383 93 45
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/Maltepe_Belediye.JPG
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>29.13111500000002,40.931989,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Namık Kemal Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/Nam%C4%B1k_Kemal.JPG" height="200" width="auto" /><br><br>Namık Kemal Mah. Değirmen Sokak No:55 <br>Ümraniye / İstanbul<br>Tel : 0 (216) 316 59 36
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/Nam%C4%B1k_Kemal.JPG
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>29.09336099999996,41.022888,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Örnek Mah. Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/%C3%96rnek.JPG" height="200" width="auto" /><br><br>Örnek Mah. Şehit Cahar Dudayev<br>Caddesi No:14 Örnek İş Merkezi<br>Ataşehir / İstanbul<br>Tel : 0 (216) 315 00 87
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/%C3%96rnek.JPG
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>29.07520199999999,40.999026,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Sancaktepe Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/happy_sanc%20(3).JPG" height="200" width="auto" /><br><br>Yenidoğan Mah. Bahçelievler Cad. No:46-52/1Aa<br> Sancaktepe / İstanbul<br>Tel : 0 (216) 312 84 06
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/happy_sanc%20(3).JPG
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.97835899999995,41.008238,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Soğanlık Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/soganl%C4%B1k.JPG" height="200" width="auto" /><br><br>Gümüşpınar Mah. Eraykent Cad. No:4<br>Soğanlık / Kartal<br>Tel : 0 (216) 452 88 16
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/soganl%C4%B1k.JPG
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>29.200141000000034,40.919759,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Sultanbeyli Merkez Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/sultan2.jpg" height="200" width="auto" /><br><br>Mehmet Akif Ersoy Mah. Kuran Kursu Cd. No:3<br>Sultanbeyli / İstanbul<br>Tel : 0 (216) 398 84 66
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>http://happycenter.com.tr/userfiles/sultan2.jpg</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>29.27693299999999,40.948075,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Şerifali Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/serifali2.jpg" height="200" width="auto" /><br><br>Mehmet Akif Mah. Elalmış Cad. No:49<br>Ümraniye / İstanbul<br>Tel : 0 (216) 499 25 14
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/serifali2.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>29.13111500000002,41.003943,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Taşdelen Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/Tasdelen.JPG" height="200" width="auto" /><br><br>Sultançiftliği Mah. Turgut Özal Bulvarı No:94 <br>Taşdelen / İstanbul<br>Tel : 0 (216) 429 28 12
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/Tasdelen.JPG
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>29.226529000000028,41.031028,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Tuzla Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/30570_448851998526602_360418064_n.jpg" height="200" width="auto" /><br><br>Aydıntepe Mah Yüzüncüyıl Cad No:72/1-2<br>Tuzla / İstanbul<br>Tel : 0 (216) 493 06 36
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/30570_448851998526602_360418064_n.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>29.292568999999958,40.85656,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ümraniye 1 Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/Atakent1.jpg" height="200" width="auto" /><br><br>Ihlamurkuyu Mah.  Gümüşsuyu Cad. No:5/C <br>İstanbul / Ümraniye<br>Tel : 0 (216) 613 87 60
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/Atakent1.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>29.13178199999993,40.990192,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ümraniye Atakent Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/Atakent1.jpg" height="200" width="auto" /><br><br>Atakent Mah. Reşit Paşa Cad. No:27<br>Ümraniye / İstanbul<br>Tel : 0 (216) 443 07 40
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/Atakent1.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>29.13178199999993,40.990192,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ümraniye Çarşı Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/umraniye_cars%C4%B1.JPG" height="200" width="auto" /><br><br>Atatürk Mahallesi Yayla Sokak No:17A<br>Ümraniye / İstanbul<br>Tel : 0 (216) 523 20 83
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/umraniye_cars%C4%B1.JPG
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>29.131475000000027,41.027778,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ümraniye Metro Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/IMG_0109.JPG" height="200" width="auto" /><br><br>Tantavi Mah. Bosna Bulvarı No:4<br>Ümraniye / İstanbul<br>Tel : 0 (216) 316 63 42
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>http://happycenter.com.tr/userfiles/IMG_0109.JPG</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>29.084538000000066,41.02508,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ümraniye Santral Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/IMG_6418.JPG" height="200" width="auto" /><br><br>Atatürk Mah. Çavuşbaşı Cad. No:31<br>Ümraniye / İstanbul<br>Tel : 0 (216) 523 85 17
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/IMG_6418.JPG
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>29.089340999999994,41.026772,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Üsküdar Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/CAM00419.jpg" height="200" width="auto" /><br><br>Selamiali Mh. Cumhuriyet Cd. No:46<br>Üsküdar / İstanbul<br>Tel : 0 (216) 391 19 67
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>http://happycenter.com.tr/userfiles/CAM00419.jpg</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>29.031710999999973,41.027347,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Yakacık Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/yakac%C4%B1k.JPG" height="200" width="auto" /><br><br>Cumhuriyet Mah. Kartal Cad. No:29<br>Yakacık / Kartal / İstanbul<br>Tel : 0 (216) 309 80 63
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/yakac%C4%B1k.JPG
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>29.21937000000003,40.914589,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Zümrütevler 1 Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/z%C3%BCmr%C3%BCtevler.JPG" height="200" width="auto" /><br><br>Zümrütevler Mahallesi Tülin Caddesi No:86 <br>Maltepe / İstanbul<br>Tel : 0 (216) 589 04 48
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/z%C3%BCmr%C3%BCtevler.JPG
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>29.15110100000004,40.938135,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Zümrütevler 2 Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/resimler/Zumrutevler-2.JPG" height="200" width="auto" /><br><br>Zümrütevler Mahallesi Nil Caddesi<br>Sinem Sokak No:37<br>Maltepe / İstanbul<br>Tel : 0 (216) 399 83 48
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/resimler/Zumrutevler-2.JPG
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>29.14959399999998,40.941776,0.0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Balıkesir Mağazalar</name>
+<Placemark>
+<name>Balıkesir 1 Şubesi</name>
+<description>
+<![CDATA[
+Gümüşçeşme M. Cengiz Topel Caddesi No.37/1 <br>Balıkesir<br>Tel : 0 (266) 243 85 90
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData></ExtendedData>
+<Point>
+<coordinates>27.903108999999972,39.642644,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Erdek Şubesi</name>
+<description>
+<![CDATA[
+Yalı M. Hükümet Caddesi No.30<br>Erdek / Balıkesir<br>Tel : 0 (266) 835 74 55
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData></ExtendedData>
+<Point>
+<coordinates>27.792246999999975,40.395546,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Gönen Şubesi</name>
+<description>
+<![CDATA[
+Akçaali M. Hüseyin Tümer Caddesi No.4/C <br>Gönen / Balıkesir<br>Tel : 0 (266) 762 58 18
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData></ExtendedData>
+<Point>
+<coordinates>27.650123000000008,40.107236,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Yüzüncü Yıl Şubesi</name>
+<description>
+<![CDATA[
+İhsaniye Mah 729. Sok A-B-C Blok No:24/5-6-7-11<br>Balıkesir<br>Tel : 0 (266) 715 11 02
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData></ExtendedData>
+<Point>
+<coordinates>27.986942999999997,40.34452700000001,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Susurluk Şubesi</name>
+<description>
+<![CDATA[
+Yeni Mah İstasyon Cad Ab Blok No:41 A<br>Balıkesir / Susurluk<br>Tel : 0 (266) 865 66 66
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData></ExtendedData>
+<Point>
+<coordinates>28.15554199999997,39.916706,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ocaklar Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/ocaklar_subesi.JPG" height="200" width="auto" /><br><br>Cumhuriyet Mah Sahil Cad No:40/A<br>Ocaklar Beldesi<br>Balıkesir / Erdek<br>Tel : 0 (266) 847 51 50
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/ocaklar_subesi.JPG
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>27.755793,40.443007,0.0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Bandırma Mağazalar</name>
+<Placemark>
+<name>Hacıyusuf Şubesi</name>
+<description>
+<![CDATA[
+Günaydın M. İnönü Caddesi<br>Gürbaş Apt. No.128/A - B<br>Bandırma / Balıkesir<br>Tel : 0 (266) 715 17 10
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData></ExtendedData>
+<Point>
+<coordinates>27.971405000000004,40.353707,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Paşabayır 1 Şubesi</name>
+<description>
+<![CDATA[
+Paşakent M. Eski Edincik Caddesi<br>Erdamla Apt. No.158/B<br>Bandırma / Balıkesir<br>Tel : 0 (266) 715 33 28
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData></ExtendedData>
+<Point>
+<coordinates>27.97612000000004,40.351098,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ordu Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles//band%C4%B1rma%20ordu%20%C5%9Fubesi.jpg" height="200" width="auto" /><br><br>Paşabayır M. Ordu Caddesi No.20 <br>Bandırma / Balıkesir<br>Tel : (266) 714 14 08
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles//band%C4%B1rma%20ordu%20%C5%9Fubesi.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>27.96757200000002,40.340936,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bandırma Hal</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/bandirma_merkez.JPG" height="200" width="auto" /><br><br>17 Eylül M. Hal Caddesi No.9<br>Bandırma / Balıkesir<br>Tel : 0 (266) 714 68 46
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/bandirma_merkez.JPG
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>27.97309999999993,40.35284,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bandırma Merkez</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/bandirma_merkez.JPG" height="200" width="auto" /><br><br>Balıkesir Asfaltı 4.Km Yeni Sanayi Sitesi Karşısı<br>Bandırma / Balıkesir<br>Tel : 0 (266) 721 12 50
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/bandirma_merkez.JPG
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>27.971405000000004,40.353707,0.0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Çanakkale Mağazalar</name>
+<Placemark>
+<name>Biga Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/biga_subesi.JPG" height="200" width="auto" /><br><br>Sakarya Mah. Muammer Aksoy Cad. No:56<br>Biga / Çanakkale<br>Tel : 0 (286) 316 00 24
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/biga_subesi.JPG
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>27.242854999999963,40.222796,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Biga 2 Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles//Biga2.jpg" height="200" width="auto" /><br><br>Hamdibey Mah.Dr.Muammer<br>Kuralay Sok No:15/A<br>Biga / Çanakkale<br>Tel : 0 (286) 316 42 44
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>http://happycenter.com.tr/userfiles//Biga2.jpg</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>27.23914400000001,40.232974,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Çan Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/can_magazasi.JPG" height="200" width="auto" /><br><br>İstiklal M. Atatürk Sehir Meydanı No.7/A<br>Çan / Çanakkale<br>Tel : 0 (286) 416 15 75
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/can_magazasi.JPG
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>29.185494999999946,40.19817,0.0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Bursa Mağazalar</name>
+<Placemark>
+<name>Karacabey 1 Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/karacabey.JPG" height="200" width="auto" /><br><br>Garipçe Mahallesi Dr. Rüştü Özüt Caddesi No.43<br> Karacabey / Bursa<br>Tel : 0 (224) 662 11 98
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>http://happycenter.com.tr/userfiles/karacabey.JPG</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.358791999999994,40.21771,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Karacabey 2 Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/karacabey2_subesi.jpg" height="200" width="auto" /><br><br>Gazi M. Ortaokul Caddesi Kapalı Pazar<br>Meydan No.21<br>Karacabey / Bursa<br>Tel : 0 (224) 676 01 80
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/karacabey2_subesi.jpg
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.359000000000037,40.216037,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>M.Kemalpaşa Şubesi</name>
+<description>
+<![CDATA[
+<img src="http://happycenter.com.tr/userfiles/Mustafakemalpasa_subesi.JPG" height="200" width="auto" /><br><br>Viraca M. Bursa Caddesi No.57/B<br>M.Kemalpaşa / Bursa<br>Tel : 0 (224) 614 05 15
+]]>
+</description>
+<styleUrl>#icon-503-DB4436</styleUrl>
+<ExtendedData>
+<Data name="gx_media_links">
+<value>
+http://happycenter.com.tr/userfiles/Mustafakemalpasa_subesi.JPG
+</value>
+</Data>
+</ExtendedData>
+<Point>
+<coordinates>28.408218000000033,40.037392,0.0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Style id="icon-503-DB4436-normal">
+<IconStyle>
+<color>ff3644DB</color>
+<scale>1.1</scale>
+<Icon>
+<href>
+http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png
+</href>
+</Icon>
+<hotSpot x="16" y="31" xunits="pixels" yunits="insetPixels"></hotSpot>
+</IconStyle>
+<LabelStyle>
+<scale>0.0</scale>
+</LabelStyle>
+</Style>
+<Style id="icon-503-DB4436-highlight">
+<IconStyle>
+<color>ff3644DB</color>
+<scale>1.1</scale>
+<Icon>
+<href>
+http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png
+</href>
+</Icon>
+<hotSpot x="16" y="31" xunits="pixels" yunits="insetPixels"></hotSpot>
+</IconStyle>
+<LabelStyle>
+<scale>1.1</scale>
+</LabelStyle>
+</Style>
+<StyleMap id="icon-503-DB4436">
+<Pair>
+<key>normal</key>
+<styleUrl>#icon-503-DB4436-normal</styleUrl>
+</Pair>
+<Pair>
+<key>highlight</key>
+<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+</Pair>
+</StyleMap>
+</Document>
+</kml>
